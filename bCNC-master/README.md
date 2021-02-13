@@ -36,8 +36,6 @@ Every developer should always use this to launch bCNC to ensure that his/her cod
 
 Note that on Windows XP you have to use `pyserial==3.0.1` or older as newer version do not work on XP.
 
-PyPI project: https://pypi.org/project/bCNC/
-
 # Installation (manual)
 You will need the following packages to run bCNC
 - tkinter the graphical toolkit for python
@@ -62,8 +60,6 @@ and run the bCNC command
 
 # Installation (Compile to Windows .exe)
 
-Note that you might probably find some precompiled .exe files on github "releases" page:
-But they might not be up to date.
 
 This is basic example of how to compile bCNC to .exe file.
 (given that you have working bCNC in the first place, eg. using `pip install bCNC`).
@@ -97,7 +93,7 @@ file will be saved in your home directory ${HOME}/.bCNC  or ~/.bCNC
 The default configuration is stored on bCNC.ini in the
 installation directory.
 
-*PLEASE DO NOT CHANGE THIS FILE, IT'S GOING TO BE OVERWRITTEN ON EACH UPGRADE OF BCNC*
+
 
 # Features:
 - simple and intuitive interface for small screens
