@@ -1,6 +1,6 @@
 bCNC
 
------UMARIM BEĞENİRSİNİZ-----
+
 ====
 
 GrblHAL (formerly GRBL) CNC command sender, autoleveler, g-code editor, digitizer, CAM
